@@ -1,6 +1,6 @@
 # hlhv
 
-![HLHV Banner](assets/banner.svg)
+![HLHV Banner](banner.svg)
 
 HLHV is a modular, hot-pluggable HTTPS server. It is designed to simplify the
 process of creating sites that have differently behaving sections.
